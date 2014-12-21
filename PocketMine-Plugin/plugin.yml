@@ -1,0 +1,11 @@
+---
+name: TurboControl
+description: Bridge for TurboControl connectors
+api:
+  - 1.9.0
+version: 1.0.0
+main: TurboControl\TurboControl
+website: https://github.com/PEMapModder/TurboControl
+authors:
+  - PEMapModder
+...

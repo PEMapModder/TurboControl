@@ -1,0 +1,7 @@
+---
+port: 26526 # port to host the TurboControl connection server
+ip: 0.0.0.0 # same as the PocketMine IP, don't modify it unless you know very well what modifying this will result in
+password: YouMustChangeMeOrYouCantConnect # password to login from a client
+pingTimeout: 10 # disconnect the client if no pong packet is sent from the client for more than {pingTimeout} seconds
+passTimeout: 5 # disconnect the client if no pass packet is sent from the client for {passTimeout} seconds since connection is created
+...
